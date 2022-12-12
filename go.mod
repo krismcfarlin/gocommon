@@ -1,4 +1,4 @@
-module gocommon
+module github.com/krismcfarlin/gocommon
 
 go 1.19
 
